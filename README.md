@@ -1,9 +1,9 @@
 # traffic-light-classifier
-Traffic light classifier with opencv.
+##Traffic light classifier with opencv.
 
-In this project, I applied knowledge of computer vision techniques to build a classifier for images of traffic lights with a 92% accuracy of classifying the correct light.
+In this project, I applied knowledge of computer vision techniques to build a classifier for images of traffic lights with a ## 92% accuracy of classifying the correct light.
 
-STEPS:
+##STEPS:
 1. Loading and visualizing the data. The first step in any classification task is to be familiar with your data; you'll need to load in the images of traffic lights and visualize them!
 2. Pre-processing. The input images and output labels need to be standardized. This way, you can analyze all the input images using the same classification pipeline, and you know what output to expect when you eventually classify a new image.
 3. Feature extraction. Next, you'll extract some features from each image that will help distinguish and eventually classify these images.
