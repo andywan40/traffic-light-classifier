@@ -1,5 +1,6 @@
 # traffic-light-classifier
-Traffic light classifier with opencv
+Traffic light classifier with opencv.
+
 In this project, I applied knowledge of computer vision techniques to build a classifier for images of traffic lights with a 92% accuracy of classifying the correct light.
 
 STEPS:
